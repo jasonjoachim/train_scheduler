@@ -1,0 +1,19 @@
+body{
+    background-color: #000000;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    margin: 20px;
+    
+}
+
+
+.jumbotron{
+    font-family: 'Limelight', cursive;
+    color: #000000;
+    background-color: #454545;
+
+}
+.panel-heading{
+background-color: #454545;
+
+
+}
